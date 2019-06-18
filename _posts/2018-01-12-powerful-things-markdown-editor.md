@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Overcoming conscious and unconscious bias"
-author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 featured: true
