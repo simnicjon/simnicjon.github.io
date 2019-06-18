@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "Find ideal candidates quicker"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
