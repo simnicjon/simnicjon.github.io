@@ -1,7 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Red Riding Hood"
-author: sal
+title:  "Find the best candidate"
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
