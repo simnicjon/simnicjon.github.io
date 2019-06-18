@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title:  "Recruit quicker"
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
