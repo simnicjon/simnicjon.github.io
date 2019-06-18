@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Find ideal candidates quicker"
-author: sal
+author:
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
