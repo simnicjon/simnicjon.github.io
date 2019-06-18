@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Do away with the resume"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
